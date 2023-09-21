@@ -1,3 +1,5 @@
+<div style="background-color: #1E1E1E; color: white; padding: 20px;">
+
 # 💫 About Me:
 Hi, I am an Aspiring Programmer currently working towards specializing in the fields of **Networking & Distributed Systems** and **Software Engineering**.<br><br>🔭 I’m currently working on **PeerPrep**, a technical interview preparation platform with peer matching services<br>🌱 I’m currently learning on **Artificial Intelligence**, **Machine Learning** and **Network Protocols**.<br>🤝 I’m looking to collaborate on **Brownfield projects** during my free time to gain more experiences and knowledge in the various aspects of Software Engineering.<br>👨‍💻 In my free time, I'm also passionate about honing my skills in **frontend**, **backend**, **automation**, and **software testing**.<br>⚡ Fun fact I originally come from an **Engineering** background during post-secondary education but chose to venture into the field of **Computing** for my tertiary studies.
 
@@ -16,3 +18,5 @@ Hi, I am an Aspiring Programmer currently working towards specializing in the fi
 ![](https://github-contributor-stats.vercel.app/api?username=MrTwit99&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
